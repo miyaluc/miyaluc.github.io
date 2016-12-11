@@ -1,0 +1,20 @@
+h1 {
+  border: solid;
+  color: ##496baf;
+  background-color: #bcbab7;
+}
+nav ul {
+  border: solid;
+}
+body {
+  color: teal;
+  background-color: #bfae8b
+}
+h2 {
+  border-right: solid;
+  padding-right: 15px;
+}
+nav li {
+  margin: 10 px;
+  padding: 20 px
+}
